@@ -1,7 +1,7 @@
-url: https://api.ideabloom.io/api/swagger.json
+url: https://api.ideabloom.io/api/HealthFunction
 status: up
 code: 200
-responseTime: 1100
-lastUpdated: 2025-11-29T14:55:20.464Z
+responseTime: 543
+lastUpdated: 2025-11-29T23:01:12.579Z
 startTime: 2025-11-29T02:39:50.782Z
 generator: Upptime <https://github.com/upptime/upptime>
