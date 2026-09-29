@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
     "time": 347,
-    "timeDay": 297,
-    "timeWeek": 285,
+    "timeDay": 371,
+    "timeWeek": 298,
     "timeMonth": 389,
     "timeYear": 347,
     "dailyMinutesDown": {
@@ -66,15 +66,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.ideabloom.io.ico",
     "slug": "idea-bloom-app",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.69%",
+    "uptimeYear": "99.70%",
     "time": 295,
-    "timeDay": 167,
-    "timeWeek": 325,
-    "timeMonth": 342,
+    "timeDay": 276,
+    "timeWeek": 321,
+    "timeMonth": 343,
     "timeYear": 295,
     "dailyMinutesDown": {
       "2025-12-26": 43,
@@ -124,16 +124,16 @@
     "url": "https://api.ideabloom.io/api/HealthFunction",
     "icon": "https://icons.duckduckgo.com/ip3/api.ideabloom.io.ico",
     "slug": "idea-bloom-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.47%",
     "time": 2134,
-    "timeDay": 3396,
-    "timeWeek": 3375,
-    "timeMonth": 3292,
+    "timeDay": 0,
+    "timeWeek": 3329,
+    "timeMonth": 3270,
     "timeYear": 2134,
     "dailyMinutesDown": {
       "2025-12-26": 43,
@@ -177,7 +177,8 @@
       "2026-05-03": 26,
       "2026-05-08": 66,
       "2026-05-16": 50,
-      "2026-05-17": 34
+      "2026-05-17": 34,
+      "2026-09-29": 0
     }
   }
 ]
